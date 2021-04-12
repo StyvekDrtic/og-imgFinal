@@ -1,3 +1,6 @@
+// @ts-nocheck
+
+
 import { IncomingMessage, ServerResponse } from 'http';
 import { parseRequest } from './_lib/parser';
 import { getScreenshot } from './_lib/chromium';
