@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { IncomingMessage } from 'http';
 import { parse } from 'url';
 import { ParsedRequest } from './types';
